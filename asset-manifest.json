@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/JuanVignolles/Landing-Vignolles/static/js/main.844ef419.js",
-    "index.html": "/JuanVignolles/Landing-Vignolles/index.html",
-    "main.844ef419.js.map": "/JuanVignolles/Landing-Vignolles/static/js/main.844ef419.js.map"
+    "main.js": "/Landing-Vignolles/static/js/main.844ef419.js",
+    "index.html": "/Landing-Vignolles/index.html",
+    "main.844ef419.js.map": "/Landing-Vignolles/static/js/main.844ef419.js.map"
   },
   "entrypoints": [
     "static/js/main.844ef419.js"
